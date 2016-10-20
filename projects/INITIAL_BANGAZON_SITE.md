@@ -62,6 +62,10 @@ Make sure you produce a [layout](https://docs.asp.net/en/latest/mvc/views/layout
 1. On the order detail view, have a button labeled `Complete Order`.
 1. When a customer starts to complete an order, show them a list of payment types that are assigned to them. When they select one to add to the order, then the order is complete.
 
+### More Requirements
+1. User can create an account. Accounts can be either a seller or a buyer account.
+1. Seller accounts can add products and edit products they own.
+1. Buyer accounts can create and edit PaymentTypes.
 
 ## Resources
 
